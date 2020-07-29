@@ -1,0 +1,13 @@
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/CMakeFiles/ALL_BUILD.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/CMakeFiles/ZERO_CHECK.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/Lib/TLibCommon/CMakeFiles/TLibCommon.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/Lib/TLibCommonAnalyser/CMakeFiles/TLibCommonAnalyser.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/Lib/TLibDecoder/CMakeFiles/TLibDecoder.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/Lib/TLibDecoderAnalyser/CMakeFiles/TLibDecoderAnalyser.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/Lib/TLibEncoder/CMakeFiles/TLibEncoder.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/Lib/Utilities/CMakeFiles/Utilities.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/App/TAppDecoder/CMakeFiles/TAppDecoder.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/App/TAppDecoderAnalyser/CMakeFiles/TAppDecoderAnalyser.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/App/TAppEncoder/CMakeFiles/TAppEncoder.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/App/TAppMCTSExtractor/CMakeFiles/MCTSExtractor.dir
+/Users/hadi/Desktop/encoders/transcode2/build/xcode/clang-11.0/x86_64/source/App/Parcat/CMakeFiles/parcat.dir

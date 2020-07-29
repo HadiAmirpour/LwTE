@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/itec/hadi/Infocom/HEVC/source/App/Parcat/parcat.cpp
+stdint.h
+-
+vector
+-
+cstdlib
+-
+cstdio
+-
+cassert
+-
+

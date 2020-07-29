@@ -1,0 +1,28 @@
+dependencies: \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/TEncRateCtrl.cpp \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/TEncRateCtrl.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/CommonDef.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TypeDef.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComDataCU.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComMotionInfo.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComMv.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComSlice.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComRom.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComList.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComChromaFormat.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComRectangle.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/ContextTables.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/Debug.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/CommonDef.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComRdCost.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComPattern.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComRdCostWeightPrediction.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibEncoder/TEncCfg.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/TComSlice.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComPic.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComPicSym.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComPicYuv.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/SEI.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../libmd5/MD5.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../libmd5/libmd5.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibEncoder/../TLibCommon/TComBitStream.h

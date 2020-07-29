@@ -1,0 +1,23 @@
+dependencies: \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/SEIread.cpp \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/CommonDef.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/TypeDef.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/TComBitStream.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/CommonDef.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/SEI.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../libmd5/MD5.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../libmd5/libmd5.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/TComSlice.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/TComRom.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/TComList.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/TComChromaFormat.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/TComRectangle.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/ContextTables.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/Debug.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/SyntaxElementParser.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/TComRom.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/TDecConformance.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/ProfileLevelTierFeatures.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/SEIread.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/../TLibCommon/TComPicYuv.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommon/SEI.h

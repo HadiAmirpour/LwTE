@@ -1,0 +1,23 @@
+dependencies: \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/SEIread.cpp \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/CommonDef.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/TypeDef.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/TComBitStream.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/CommonDef.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/SEI.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../libmd5/MD5.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../libmd5/libmd5.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/TComSlice.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/TComRom.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/TComList.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/TComChromaFormat.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/TComRectangle.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/ContextTables.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/Debug.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/SyntaxElementParser.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/TComRom.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/TDecConformance.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/ProfileLevelTierFeatures.h \
+  /Volumes/Hadi/papers/infocom/HEVC/source/Lib/TLibDecoder/SEIread.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibDecoderAnalyser/../TLibCommon/TComPicYuv.h \
+  /Users/hadi/Desktop/encoders/transcode2/source/Lib/TLibCommonAnalyser/../TLibCommon/SEI.h
